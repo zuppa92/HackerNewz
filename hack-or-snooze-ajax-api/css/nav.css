@@ -12,6 +12,13 @@ nav {
   font-weight: bold;
 }
 
+.main-nav-links {
+  margin: 0 10px;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
 .nav-link {
   font-size: 0.85rem;
   margin: 0 3px;
